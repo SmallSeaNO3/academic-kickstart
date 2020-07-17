@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 蔡晓海
+title: 陈龙彪
 
 # Username (this should match the folder name)
 authors:
-- admin
+- clb
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 开发人员
+role: 导师
 
 # Organizations/Affiliations
 organizations:
@@ -21,17 +21,21 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 健身
-- 羽毛球
+- 普适计算
+- 群智计算
+- 城市计算
 
 education:
   courses:
-  - course: 计算机技术 硕士
-    institution: 厦门大学
-    year: 2019--2022
-  - course: 计算机科学与技术 学士
-    institution: 江苏大学
-    year: 2014--2018
+  - course: 计算机科学 博士
+    institution: 法国索邦大学 (原法国巴黎第六大学)
+    year: 2015--2018
+  - course: 计算机科学 博士
+    institution: 浙江大学
+    year: 2010--2016
+  - course: 计算机科学 学士
+    institution: 浙江大学
+    year: 2006--2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

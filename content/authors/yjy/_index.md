@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 蔡晓海
+title: 游建议
 
 # Username (this should match the folder name)
 authors:
-- admin
+- yjy
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 开发人员
+role: 项目经理
 
 # Organizations/Affiliations
 organizations:
@@ -22,15 +22,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - 健身
-- 羽毛球
 
 education:
   courses:
   - course: 计算机技术 硕士
     institution: 厦门大学
-    year: 2019--2022
+    year: 2018--2021
   - course: 计算机科学与技术 学士
-    institution: 江苏大学
+    institution: 华侨大学
     year: 2014--2018
 
 # Social/Academic Networking

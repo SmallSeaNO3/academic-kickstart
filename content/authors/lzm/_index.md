@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 蔡晓海
+title: 林志铭
 
 # Username (this should match the folder name)
 authors:
-- admin
+- lzm
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,7 +22,6 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - 健身
-- 羽毛球
 
 education:
   courses:
@@ -30,8 +29,8 @@ education:
     institution: 厦门大学
     year: 2019--2022
   - course: 计算机科学与技术 学士
-    institution: 江苏大学
-    year: 2014--2018
+    institution: 福建师范大学
+    year: 2015--2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
