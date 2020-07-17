@@ -28,7 +28,7 @@ education:
   - course: 计算机技术 硕士
     institution: 厦门大学
     year: 2018--2021
-  - course: 物联网 学士
+  - course: 物联网工程 学士
     institution: 华侨大学
     year: 2014--2018
 
