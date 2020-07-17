@@ -37,7 +37,7 @@ hero_media = "system.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "http://127.0.0.1:3499/ihomepage"
+  url = "http://apps.longbiaochen.com:5002/"
   label = "Get Started"
   icon_pack = "fab"
   icon = "medrt"
